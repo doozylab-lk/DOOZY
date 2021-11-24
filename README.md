@@ -12,7 +12,12 @@ ___
  
 
 
-
+ 
+ ​-​ ![​Profile views​](https://gpvc.arturio.dev/doozylab-lk) 
+ ​-​ [![​GitHub followers​](https://img.shields.io/github/followers/doozylab-lk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/doozylab-lk?tab=followers) 
+ ​   
+  
+ ​<p align="center"> <a href="https://github.com/doozylab-lk"><img src="https://github-profile-trophy.vercel.app/?username=doozylab-lk&no-bg=true" alt="doozylab-lk" /></a> </p>
 
 
 
