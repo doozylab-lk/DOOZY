@@ -6,11 +6,22 @@
 
 ___
 
+ 
+ ​<div align="center" width="50"> 
+  
 
+ ​<img src="gifs/coding.gif" alt="coding ?"> 
+  
+ ​<b>Skills :</b> <code>Java</code> | <code>PHP</code> | <code>MySQL</code> | <code>HTML</code> | <code>CSS</code> 
+  
+  
+ ​<br><img src="https://gpvc.arturio.dev/doozylab-lk" alt="Profile views"> 
+  
+ ​</div>
  
  
   
- ​<img src="gifs/coding.gif" alt="coding ?">
+ 
 
 
 
