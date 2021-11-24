@@ -11,5 +11,5 @@ ___
 ___
  
   
- ​[​<img src="https://raw.githubusercontent.com/h1n054ur/js-typing-gif/master/intro.gif" alt="👋 Hi there! I'm (doozy)|https://github.com/doozylab-lk/doozylab-lk)" title="👋 Hi there! I'm (h1n054ur)|https://github.com/doozylab-lk/doozylab-lk)"/>​](https://github.com/doozylab-lk/doozylab-lk) 
+ <img src="https://raw.githubusercontent.com/h1n054ur/js-typing-gif/master/intro.gif" alt="👋 Hi there! I'm (doozy)|https://github.com/doozylab-lk/doozylab-lk)" title="👋 Hi there! I'm (h1n054ur)|https://github.com/doozylab-lk/doozylab-lk)"/>​](https://github.com/doozylab-lk/doozylab-lk) 
  ​
