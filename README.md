@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm DOOZY YEZ
+U## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm DOOZY YEZ
 
 ## Let's connect!
 <p>
@@ -7,7 +7,7 @@
 ___
 
 
-<img url="https://i.gifer.com/EXfb.gif" />
+<img url="https://i.gifer.com/EXfb.git" />
 
 
 
