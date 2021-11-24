@@ -7,7 +7,7 @@
 ___
 
  
- ​<div align="center" width="50"> 
+ ​<div 
   
 
  ​<img src="gifs/coding.gif" alt="coding ?"> 
