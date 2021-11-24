@@ -9,7 +9,7 @@ ___
 
  
  
- ​<img src="coding.gif" alt="coding ?">
+ ​<img src="main/coding.gif" alt="coding ?">
 
 
 
