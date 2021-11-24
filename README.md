@@ -7,7 +7,7 @@ U## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
 ___
 
 
-<img url="https://i.gifer.com/EXfb.git" />
+<img src="https://i.gifer.com/EXfb.git" />
 
 
 
