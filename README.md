@@ -12,7 +12,7 @@ ___
 
  ​<img src="gifs/coding.gif" alt="coding ?"> 
   
- ​<b>Skills :</b> <code>Java</code> | <code>PHP</code> | <code>MySQL</code> | <code>HTML</code> | <code>CSS</code> 
+ ​<b>Skills :</b> <code>Java</code> | <code>Python</code> | <code>HTML</code> | <code>CSS</code> 
   
   
 
