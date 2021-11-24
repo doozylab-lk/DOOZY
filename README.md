@@ -8,7 +8,8 @@ ___
 
 
  
- ​<img src="https://github.com/doozylab-lk/doozylab-lk/blob/main/coding.gif">
+ 
+ ​<img src="coding.gif" alt="coding ?">
 
 
 
