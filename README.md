@@ -6,7 +6,7 @@
 
 ___
 
-<img url="https://i.gifer.com/EXfb.gif" />
+<img src="https://i.gifer.com/EXfb.gif" />
 
 ___
  
