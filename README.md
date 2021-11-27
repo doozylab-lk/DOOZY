@@ -1,8 +1,7 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm ᴅᴏᴏᴢʏ
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ɪ'ᴍ ᴅᴏᴏᴢʏ
 
-## Let's connect!
 <p>
-    <a href="https://t.me/doozylab_lk" target="blank"><img src="https://img.shields.io/badge/@DOOZY_YEZ-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://t.me/doozylab_lk" target="blank"><img src="https://img.shields.io/badge/@ᴅᴏᴏᴢʏ_ʟᴀʙ_ʟᴋ-30302f?style=flat&logo=telegram" /></a>
 
 ___
 
@@ -43,5 +42,5 @@ ___
 
 
  
- ## VISSITORS COUNT 
+ ## ᴠɪssɪᴛᴏʀs ᴄᴏᴜɴᴛ
  ​![​VisitorCount​](https://profile-counter.glitch.me/{doozylab-lk}/count.svg)
